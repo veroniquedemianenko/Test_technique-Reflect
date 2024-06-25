@@ -1,0 +1,72 @@
+{
+  "Gladiator": [
+    {
+      "title": "De Gladiator à Master and Commander, retour sur Russell Crowe, la star du moment.",
+      "date": "01/01/2004",
+      "journal": "Libération",
+      "media": NaN
+    }
+  ],
+  "Snatch": [
+    {
+      "title": "Snatch: la nouvelle comédie de Guy Ritchie, encore meilleure qu'Arnaque, crimes et botannique.",
+      "date": "14/12/2000",
+      "journal": "Le Figaro",
+      "media": NaN
+    },
+    {
+      "title": "Snatch: ça faisait longtemps qu'on n'avait pas autant ri.",
+      "date": "14/10/2000",
+      "journal": "Le Figaro",
+      "media": NaN
+    },
+    {
+      "title": "Le film de la rentrée, c'est \\xc3\\xb1 Snatch",
+      "date": "1 Octobre 2002",
+      "journal": NaN,
+      "media": "Télé Magazine"
+    }
+  ],
+  "Le chant du loup": [
+    {
+      "title": "Le chant du loup: un thriller français très réussi",
+      "date": "01/01/2020",
+      "journal": "Le Monde",
+      "media": NaN
+    },
+    {
+      "title": "Le chant du loup: on reste sur notre faim",
+      "date": "1 January 2018",
+      "journal": NaN,
+      "media": "Allo Cine"
+    }
+  ],
+  "Titanic": [
+    {
+      "title": "Qui fera mieux que Titanic pour les Oscars?",
+      "date": "01/01/2003",
+      "journal": "Le Monde",
+      "media": NaN
+    },
+    {
+      "title": "Le Seigneur des Anneaux: le retour du roi égalise Titanic aus Oscars",
+      "date": "14 December 2003",
+      "journal": NaN,
+      "media": "Movies"
+    }
+  ],
+  "Intouchables": [
+    {
+      "title": "Omar Sy brille dans Intouchables.",
+      "date": "01/12/2011",
+      "journal": "Libération",
+      "media": NaN
+    },
+    {
+      "title": "Il faut absolument que vous alliez voir Intouchables.",
+      "date": "02/11/2011",
+      "journal": "Libération",
+      "media": NaN
+    }
+  ]
+}
